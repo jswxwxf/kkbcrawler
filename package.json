@@ -1,0 +1,29 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "commander": "^2.9.0",
+    "faker": "^3.1.0",
+    "fast-csv": "^2.1.0",
+    "id-validator": "^1.2.1",
+    "jquery": "^3.1.0",
+    "jquery-iframe-ajax": "^1.0.1",
+    "jquery.iframe-transport": "^1.0.0",
+    "jsonfile": "^2.3.1",
+    "lodash": "^4.15.0",
+    "moment": "^2.14.1",
+    "nightmare": "^2.6.1",
+    "restler": "^3.4.0",
+    "sync-request": "^3.0.1",
+    "winston": "^2.2.0"
+  }
+}
